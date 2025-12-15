@@ -1,0 +1,9 @@
+# large model checkpoints
+distilbert_clickbait/checkpoint-800/
+distilbert_clickbait/*.zip
+
+# local artifacts
+*.pdf
+archive/*.csv
+__pycache__/
+.venv/
